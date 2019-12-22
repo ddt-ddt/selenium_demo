@@ -1,5 +1,6 @@
 # coding=utf-8
 import unittest
+import xmlrunner
 
 from automation_framwork.testsuits.test_baidu_search import BaiduSearch
 from automation_framwork.testsuits.test_get_page_title import GetPageTitle
@@ -13,5 +14,6 @@ suite.addTest(GetPageTitle('test_get_title'))
 if __name__ == '__main__':
 
     # 执行用例
-    runner = unittest.TextTestRunner()
-    runner.run(suite)
+    # runner = unittest.TextTestRunner()
+    # runner.run(suite)
+    xmlrunner.XMLTestRunner(verbosity=2, output='test-reports').run(suite)
