@@ -1,7 +1,13 @@
+import sys
+import os
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
+
 from selenium import webdriver
 import os.path
 import configparser
-from automation_framwork.framwork.logger import Logger
+from framwork.logger import Logger
 
 logger = Logger(logger = "BrowserEngine").getlog()
 
@@ -19,7 +25,8 @@ class BrowserEngine(object):
         :return: driver
         """
         config = configparser.ConfigParser()
-        file_path = os.path.dirname(os.path.abspath('.')) + '/config/config.ini'
+        # file_path = os.path.dirname(os.path.abspath('.')) + '/config/config.ini'
+        file_path = rootPath + '/config/config.ini'
         config.read(file_path)
 
         browser = config.get("browserType", "browserName")

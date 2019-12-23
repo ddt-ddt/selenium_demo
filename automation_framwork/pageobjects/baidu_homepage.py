@@ -1,4 +1,4 @@
-from automation_framwork.framwork.base_page import BasePage
+from framwork.base_page import BasePage
 
 class HomePage(BasePage):
 

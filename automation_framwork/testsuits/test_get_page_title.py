@@ -1,7 +1,7 @@
 import unittest
 
-from automation_framwork.framwork.browser_engine import BrowserEngine
-from automation_framwork.pageobjects.baidu_homepage import HomePage
+from framwork.browser_engine import BrowserEngine
+from pageobjects.baidu_homepage import HomePage
 
 
 class GetPageTitle(unittest.TestCase):

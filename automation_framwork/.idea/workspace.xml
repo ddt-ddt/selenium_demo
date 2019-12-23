@@ -2,34 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b302d81c-b1bf-437e-ad0f-c31637910594" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../action_chain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/framwork/_init_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/framwork/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/framwork/browser_engine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/framwork/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageobjects/_init_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageobjects/baidu_homepage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testsuits/_init_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testsuits/test_get_page_title.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testsuits/test_runner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../framwork_demo/config/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../framwork_demo/test1/basepage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../framwork_demo/test1/browser_engine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../framwork_demo/test1/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../framwork_demo/test_case/test_browser_engine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../framwork_demo/test_case/test_get_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../framwork_demo/test_case/test_log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../framwork_demo/test_case/test_read_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../framwork_demo/test_case/test_screenshot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../framwork_demo/test_case/testcase1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../page_object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drop_down_box.py" beforeDir="false" afterPath="$PROJECT_DIR$/../drop_down_box.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi_window.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framwork/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/framwork/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framwork/browser_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/framwork/browser_engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framwork/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/framwork/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageobjects/baidu_homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobjects/baidu_homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/runner1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/runner1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/runner2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/runner2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/runner3.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/runner3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/test-reports/TEST-automation_framwork.testsuits.test_baidu_search.BaiduSearch-20191222194217.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/test-reports/TEST-automation_framwork.testsuits.test_get_page_title.GetPageTitle-20191222194217.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/test_baidu_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/test_baidu_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/test_get_page_title.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/test_get_page_title.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,12 +24,54 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testsuits/test_runner.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageobjects/baidu_homepage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="25" />
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuits/runner2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuits/runner1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <element signature="e#15#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/framwork/browser_engine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuits/runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -57,13 +85,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/testsuits/test_runner.py" />
+        <option value="$PROJECT_DIR$/testsuits/runner1.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_baidu_search.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_get_page_title.py" />
+        <option value="$PROJECT_DIR$/pageobjects/baidu_homepage.py" />
+        <option value="$PROJECT_DIR$/framwork/base_page.py" />
+        <option value="$PROJECT_DIR$/testsuits/runner2.py" />
+        <option value="$PROJECT_DIR$/testsuits/runner.py" />
+        <option value="$PROJECT_DIR$/framwork/logger.py" />
+        <option value="$PROJECT_DIR$/framwork/browser_engine.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="33" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="797" />
+    <option name="height" value="811" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -71,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,13 +119,22 @@
             <path>
               <item name="automation_framwork" type="b2602c69:ProjectViewProjectNode" />
               <item name="automation_framwork" type="462c0819:PsiDirectoryNode" />
+              <item name="framwork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation_framwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation_framwork" type="462c0819:PsiDirectoryNode" />
               <item name="testsuits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automation_framwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation_framwork" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -106,6 +153,34 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="runner1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="automation_framwork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsuits/runner1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runner1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -120,33 +195,105 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="32" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="811" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32907802" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32962447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32823366" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testsuits/test_runner.py">
+    <entry file="file://$PROJECT_DIR$/testsuits/test_runner.py" />
+    <entry file="file://$PROJECT_DIR$/testsuits/test_baidu_search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="25" />
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_get_page_title.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framwork/_init_.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framwork/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framwork/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/baidu_homepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/runner2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/runner1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framwork/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,6 +1,11 @@
 import logging
 import os.path
 import time
+import sys
+import os
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
 
 
 class Logger(object):
@@ -17,7 +22,8 @@ class Logger(object):
 
         # 创建一个handler，用于写入日志文件
         rq = time.strftime('%Y%m%d%H%M', time.localtime(time.time()))
-        log_path = os.path.dirname(os.path.abspath('.')) + '/logs/'
+        # log_path = os.path.dirname(os.path.abspath('.')) + '/logs/'
+        log_path = rootPath+'/logs/'
         log_name = log_path + rq + '.log'
         fh = logging.FileHandler(log_name)
         fh.setLevel(logging.INFO)

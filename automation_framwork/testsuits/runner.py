@@ -2,7 +2,7 @@
 import os
 import time
 import unittest
-from automation_framwork.tools.HTMLTestRunner import HTMLTestRunner
+from tools.HTMLTestRunner import HTMLTestRunner
 
 # 设置报告文件保存路径
 report_path = os.path.dirname(os.path.abspath('.')) + '/test_report/'
