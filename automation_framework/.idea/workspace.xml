@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b302d81c-b1bf-437e-ad0f-c31637910594" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framwork/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/framwork/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framwork/browser_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/framwork/browser_engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framwork/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/framwork/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageobjects/baidu_homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobjects/baidu_homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/runner1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/runner1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/runner2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/runner2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/runner3.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/runner3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/test-reports/TEST-automation_framwork.testsuits.test_baidu_search.BaiduSearch-20191222194217.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/test-reports/TEST-automation_framwork.testsuits.test_get_page_title.GetPageTitle-20191222194217.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/test_baidu_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/test_baidu_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuits/test_get_page_title.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/test_get_page_title.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="811" />
+  </component>
+  <component name="ProjectId" id="1VVBxbNaPuxRKMK8a2CHhb8SyER" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="runner1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="automation_framwork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsuits/runner1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runner1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b302d81c-b1bf-437e-ad0f-c31637910594" name="Default Changelist" comment="" />
+      <created>1566636076742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566636076742</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1577328643610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-1145.1080.1880@0.0.1366.728" timestamp="1577328643610" />
+  </component>
+</project>
