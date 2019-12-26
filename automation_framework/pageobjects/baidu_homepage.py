@@ -1,4 +1,4 @@
-from framwork.base_page import BasePage
+from framework.base_page import BasePage
 
 class HomePage(BasePage):
 

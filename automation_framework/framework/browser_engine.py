@@ -5,9 +5,8 @@ rootPath = os.path.split(curPath)[0]
 sys.path.append(rootPath)
 
 from selenium import webdriver
-import os.path
 import configparser
-from framwork.logger import Logger
+from framework.logger import Logger
 
 logger = Logger(logger = "BrowserEngine").getlog()
 

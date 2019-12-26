@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b302d81c-b1bf-437e-ad0f-c31637910594" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/automation_framwork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/automation_framwork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framwork/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/framwork/base_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framwork/browser_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/framwork/browser_engine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framwork/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/framwork/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/framework/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/browser_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/framework/browser_engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/framework/logger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pageobjects/baidu_homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobjects/baidu_homepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuits/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/runner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuits/runner1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/runner1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuits/runner2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/runner2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuits/runner3.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/runner3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuits/test-reports/TEST-automation_framwork.testsuits.test_baidu_search.BaiduSearch-20191222194217.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuits/test-reports/TEST-automation_framwork.testsuits.test_get_page_title.GetPageTitle-20191222194217.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/testsuits/test_baidu_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/test_baidu_search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testsuits/test_get_page_title.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuits/test_get_page_title.py" afterDir="false" />
     </list>
@@ -24,11 +19,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="811" />
   </component>
   <component name="ProjectId" id="1VVBxbNaPuxRKMK8a2CHhb8SyER" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -95,9 +85,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1577328643610">
+    <state x="186" y="10" key="SettingsEditor" timestamp="1577329134838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-1145.1080.1880@0.0.1366.728" timestamp="1577328643610" />
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728/1366.-1145.1080.1880@0.0.1366.728" timestamp="1577329134838" />
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1577328903882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-1145.1080.1880@0.0.1366.728" timestamp="1577328903882" />
   </component>
 </project>

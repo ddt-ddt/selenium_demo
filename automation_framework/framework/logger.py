@@ -1,5 +1,4 @@
 import logging
-import os.path
 import time
 import sys
 import os

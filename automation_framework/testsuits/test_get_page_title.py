@@ -1,6 +1,6 @@
 import unittest
 
-from framwork.browser_engine import BrowserEngine
+from framework.browser_engine import BrowserEngine
 from pageobjects.baidu_homepage import HomePage
 
 
